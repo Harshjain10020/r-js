@@ -1,0 +1,5 @@
+react best practices 
+
+1. use capitalize for component names
+2. in vite react use .js extension to .jsx
+3. 
